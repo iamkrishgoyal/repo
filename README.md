@@ -69,3 +69,5 @@ The core assumption of technical analysis, on the other hand, is that all known 
 
 How Is Technical Analysis Used?
 Technical analysis attempts to forecast the price movement of virtually any tradable instrument that is generally subject to forces of supply and demand, including stocks, bonds, futures, and currency pairs. Across the industry, there are hundreds of patterns and signals that have been developed by researchers to support technical analysis trading. Technical analysts have also developed numerous types of trading systems to help them forecast and trade on price movements.
+
+https://en.wikipedia.org/wiki/Technical_analysis
