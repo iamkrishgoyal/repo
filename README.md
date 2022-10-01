@@ -1,5 +1,5 @@
 # repo
-TA
+Technical Analysis
 Understanding Technical Analysis
 Unlike fundamental analysis, which attempts to evaluate a security's value based on business results such as sales and earnings, technical analysis focuses on the study of price and volume. Technical analysis tools are used to scrutinize the ways supply and demand for a security will affect changes in price, volume, and implied volatility.
 
